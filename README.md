@@ -1,2 +1,2 @@
 # Machine-translation
-Each files contains the assigned tasks. 
+Each files contains code for the assigned tasks. 
